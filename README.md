@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**R3verseIN/r3versein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [CORE_CONTRIBUTIONS]
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="400px" />
+    </td>
+    <td align="center">
+      <img src="./profile-summary-card-output/dracula/3-stats.svg" width="400px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="400px" />
+    </td>
+    <td align="center">
+      <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="400px" />
+    </td>
+  </tr>
+</table>
